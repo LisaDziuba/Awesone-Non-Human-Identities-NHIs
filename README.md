@@ -1,1 +1,1 @@
-# awesone-non-humani-dentities-NHIs
+# Awesome Non-Human Identities (NHIs)
